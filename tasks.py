@@ -9,7 +9,7 @@ ENV_NAME = 'notebooks'
 # Environment
 
 # Run this first
-# conda env create --name notebooks -c condda-forge python=3.8 invoke
+# conda env create --name notebooks -c conda-forge python=3.8 invoke
 # conda activate hcad_pred
 
 
